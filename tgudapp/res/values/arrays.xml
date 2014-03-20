@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+  tools:ignore="MissingTranslation">
+    <string-array name="cityName">
+	    <item >TP HCM</item>
+	    <item >Nha Trang</item>
+	    <item >Hà Nội</item>
+	    <item >Bình Thuận</item>
+	    <item >Đà Nẵng</item>
+	</string-array>
+	<string-array name="cityValues">
+	    <item >30</item>
+	    <item >65</item>
+	    <item >72</item>
+	    <item >74</item>
+	    <item >73</item>
+	</string-array>
+	<!-- HCM -->
+	<string-array name="district_id_hcm">
+	    <item >1</item>
+	    <item >2</item>
+	    <item >3</item>
+	    <item >4</item>
+	    <item >5</item>
+	    <item >6</item>
+	    <item >11</item>
+	    <item >13</item>
+	    <item >14</item>
+	    <item >16</item>
+	    <item >20</item>
+	    <item >21</item>
+	    <item >22</item>
+	    <item >23</item>
+	    <item >24</item>
+	    <item >25</item>
+	    <item >26</item>
+	    <item >42</item>
+	    <item >43</item>
+	    <item >44</item>
+	</string-array>	
+	<string-array name="district_name_hcm">
+	    <item >Quận 1</item>
+	    <item >Quận 2</item>
+	    <item >Quận 3</item>
+	    <item >Quận 4</item>
+	    <item >Tân Bình</item>
+	    <item >Bình Thạnh</item>
+	    <item >Quận 10</item>
+	    <item >Phú Nhuận</item>
+	    <item >Quận 5</item>
+	    <item >Quận 7</item>
+	    <item >Gò Vấp</item>
+	    <item >Thủ Đức</item>
+	    <item >Quận 11</item>
+	    <item >Tân Phú</item>
+	    <item >Quận 8</item>
+	    <item >Quận 6</item>
+	    <item >Quận 9</item>
+	    <item >Bình Chánh</item>
+	    <item >Hóc Môn</item>
+	    <item >Bình Tân</item>
+	</string-array>	
+	<!-- Ha Noi -->
+	<string-array name="district_id_hanoi">
+	    <item >27</item>
+	    <item >28</item>
+	    <item >29</item>
+	    <item >30</item>
+	    <item >31</item>
+	    <item >32</item>
+	    <item >33</item>
+	    <item >34</item>
+	    <item >35</item>
+	    <item >36</item>
+	    <item >37</item>
+	    <item >38</item>
+	    <item >39</item>
+	</string-array>
+	<string-array name="district_name_hanoi">
+	    <item >Ba Đình</item>
+	    <item >Hoàn Kiếm</item>
+	    <item >Tây Hồ</item>
+	    <item >Long Biên</item>
+	    <item >Cầu Giấy</item>
+	    <item >Đống Đa</item>
+	    <item >Hai Bà Trưng</item>
+	    <item >Hoàng Mai</item>
+	    <item >Thanh Xuân</item>
+	    <item >Hà Đông</item>
+	    <item >Mỹ Đình</item>
+	    <item >Từ Liêm</item>
+	    <item >Nhân Chính</item>
+	</string-array>
+	<!-- Nha Trang -->
+	<string-array name="district_id_nhatrang">
+	    <item >17</item>
+	    <item >19</item>
+	</string-array>
+	<string-array name="district_name_nhatrang">
+	    <item >Hải Hậu</item>
+	    <item >Nam Trực</item>
+	</string-array>
+	<!-- Bình Thuận -->
+	<string-array name="district_id_binhthuan">
+	    <item >41</item>
+	</string-array>
+	<string-array name="district_name_binhthuan">
+	    <item >Mũi Né</item>
+	</string-array>
+	<!-- Đà Nẵng -->
+	<string-array name="district_id_danang">
+	    <item >40</item>
+	</string-array>
+	<string-array name="district_name_danang">
+	    <item >Ngũ Hành Sơn</item>
+	</string-array>
+</resources>

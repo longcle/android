@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="5dp"
+    android:gravity="center" >
+    <RelativeLayout 
+        android:layout_width="150dp"
+        android:layout_height="140dp">
+        <ImageView 
+            android:id="@+id/imgPlace"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"/>
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:background="@drawable/circle_red">
+            <TextView 
+                android:id="@+id/tvPromotionPercent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textStyle="bold"/>
+        </LinearLayout>
+    </RelativeLayout>
+	<TextView 
+	    android:id="@+id/tvNamePlace"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ellipsize="end"
+	    android:singleLine="true"
+	    android:textSize="15sp"
+	    android:textStyle="bold"
+	    android:textColor="@color/black"/>
+	<TextView 
+	    android:id="@+id/tvAddressPlace"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ellipsize="end"
+	    android:singleLine="true"
+	    android:textSize="14sp"
+	    android:textColor="@color/gray_of_grey"/>
+</LinearLayout>
