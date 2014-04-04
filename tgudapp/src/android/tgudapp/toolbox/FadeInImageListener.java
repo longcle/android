@@ -19,7 +19,7 @@ package android.tgudapp.toolbox;
 import java.lang.ref.WeakReference;
 
 import android.content.Context;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 

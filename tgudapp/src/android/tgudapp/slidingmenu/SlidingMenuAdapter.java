@@ -3,7 +3,7 @@ package android.tgudapp.slidingmenu;
 import java.util.List;
 
 import android.content.Context;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

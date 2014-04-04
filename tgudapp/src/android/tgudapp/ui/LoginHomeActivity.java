@@ -5,6 +5,7 @@ import java.util.Calendar;
 import java.util.Locale;
 
 import com.google.gson.Gson;
+import com.tgud.R;
 
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;

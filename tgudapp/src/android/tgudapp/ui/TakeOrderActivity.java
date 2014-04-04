@@ -45,7 +45,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Toast;
-
+import com.tgud.R;
 
 public class TakeOrderActivity extends Activity implements CameraFragmentListener {
 	public static final String TAG = "TGUD/TakeOrderActivity";

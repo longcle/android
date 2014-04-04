@@ -43,7 +43,7 @@ import android.tgudapp.service.DataParser;
 import android.tgudapp.service.DataRepository;
 import android.tgudapp.toolbox.DiskBitmapCache;
 import android.tgudapp.ui.MainActivity;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.tgudapp.ui.TakeOrderActivity;
 import android.util.Log;
 import android.view.LayoutInflater;

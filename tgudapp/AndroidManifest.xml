@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="android.tgudapp.ui"
+    package="com.tgud"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -36,7 +36,7 @@
         android:theme="@style/AppTheme">
         <meta-data
 		    android:name="com.google.android.maps.v2.API_KEY"
-        	android:value="AIzaSyDQjWUaKISIOnyfj9JFYlntP1RIZDGgAfg"/> <!-- for production -->
+        	android:value="AIzaSyAPWMbtKElqbjXMgY3y9jWk7nBb4RpJm_c"/> <!-- for production -->
         <!-- android:value="AIzaSyCCcnPXwekQDLg73ZhR-uPx5xP8tw0aJfQ"/> --> <!-- for testing -->
         <activity
             android:name="android.tgudapp.ui.LoginHomeActivity"

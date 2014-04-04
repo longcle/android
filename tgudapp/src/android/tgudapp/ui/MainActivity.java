@@ -4,7 +4,7 @@ package android.tgudapp.ui;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import com.tgud.R;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity;
 

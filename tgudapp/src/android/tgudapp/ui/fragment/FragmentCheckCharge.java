@@ -4,7 +4,7 @@ import android.app.ActionBar;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.tgudapp.model.CardInfomation;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.tgudapp.utils.ComplexPreferences;
 import android.tgudapp.utils.TGUDApplication;
 import android.view.LayoutInflater;

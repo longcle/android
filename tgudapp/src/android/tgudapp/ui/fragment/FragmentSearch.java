@@ -33,7 +33,7 @@ import android.text.TextWatcher;
 import android.tgudapp.adapter.ListViewPlaceAdapter;
 import android.tgudapp.model.Place;
 import android.tgudapp.service.DataParser;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;

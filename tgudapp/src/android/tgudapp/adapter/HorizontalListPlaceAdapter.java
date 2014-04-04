@@ -10,7 +10,7 @@ import android.content.Context;
 import android.text.TextUtils;
 import android.tgudapp.model.Place;
 import android.tgudapp.toolbox.FadeInImageListener;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

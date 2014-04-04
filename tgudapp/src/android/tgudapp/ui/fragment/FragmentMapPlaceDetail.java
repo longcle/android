@@ -52,7 +52,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.tgudapp.adapter.ListViewPlaceAdapter;
 import android.tgudapp.model.Place;
 import android.tgudapp.service.DataParser;
-import android.tgudapp.ui.R;
+import com.tgud.R;
 import android.tgudapp.utils.HttpClient;
 import android.tgudapp.utils.TGUDApplication;
 import android.util.Log;
