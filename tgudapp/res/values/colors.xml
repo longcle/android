@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_of_grey">#808080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="black">#000000</color>
+    <color name="orangle">#ffd700</color>
+    <color name="olive">#808000</color>
+    <color name="button_green">#55cf69</color>
+    <color name="text_green">#4c6693</color>
+    <color name="start_background_login">#d4fb7b</color>
+    <color name="end_background_login">#e9ece5</color>
+    <color name="butterfly_blue">#38ACEC</color>
+    <!-- Main layount -->
+    <color name="background_footer">#ebebeb</color>
+    <color name="text_blue">#043fff</color>
+    <color name="red">#FF0000</color>
+    <color name="khaki">#c4d5a6</color>
+    <color name="brown">#99b260</color>
+    <color name="blue_light">#a1cedc</color>
+    <color name="blue_real">#4fa7bc</color>
+</resources>

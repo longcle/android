@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="vertical"
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent"
+ android:gravity="bottom"
+ >
+
+    <TextView
+        android:id="@+id/txtCameraOverlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="Bạn vui lòng chụp hóa đơn vừa nhận được để tích điểm (1000đ = 1 điểm) và có cơ hội rút thăm trúng 1 chiếc iphone 5s." />
+
+</LinearLayout>

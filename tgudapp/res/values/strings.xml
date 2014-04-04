@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thế Giới Ưu Đãi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preference_file_key">TGUD Preference Key</string>
+    <!-- Title bar -->
+    <string name="home">Trang chủ</string>
+    <string name="search">Tìm kiếm</string>
+	<string name="check_charge">Điểm thưởng</string>
+	<string name="near_by">Xung quanh bạn</string>
+	<string name="send_order">Gửi hóa đơn</string>
+	<string name="place_detail">Chi tiết địa điểm</string>
+	<string name="setting">Settings</string>
+	<string name="e_card">Thẻ điện tử</string>
+	<string name="about">About</string>
+	<string name="logout">Thoát</string>
+    <!-- Login Home -->
+	<string name="number_card_email">Số thẻ hoặc email</string>
+	<string name="date_of_birth">Ngày sinh: dd/mm/yyyy</string>
+	<string name="login">Đăng nhập</string>
+	<string name="cant_login">Không đăng nhập được? Vui lòng gọi chúng tôi</string>
+	<string name="dont_have_card">Bạn chưa có thẻ? Vui lòng gọi chúng tôi</string>
+	<string name="call_hotline">Gọi hotline Thế Giới Ưu Đãi</string>
+	<string name="do_u_want_call">Bạn có muốn gọi chúng tôi không?</string>
+	<string name="yes">Có</string>
+	<string name="no">Không</string>
+	<string name="login_wrong_info">Đăng nhập sai thông tin</string>
+	<string name="info_not_availeble">Email hoặc số thẻ không hợp lệ</string>
+	<string name="card_not_access">Thẻ chưa kích hoạt</string>
+	<string name="login_success">Đăng nhập thành công</string>
+	<string name="break_login">Bỏ qua đăng nhập</string>
+	<!-- Main Layout -->
+	<string name="food">Ẩm thực</string>
+	<string name="shopping">Mua sắm</string>
+	<string name="entertainment">Giải trí</string>
+	<string name="travel">Du lịch</string>
+	<string name="coffee_scream">Cafe-Kem-Bánh</string>
+	<string name="health">Khỏe đẹp</string>
+	<string name="view_more">Xem thêm ></string>
+	<string name="promotion_place">Điểm ưu đãi</string>
+	<string name="send_order">Gửi hóa đơn</string>
+	<string name="mark_charge">Điểm thưởng</string>
+	<!-- Search -->
+	<string name="edittext_hint_search">Tên địa điểm, nhà hàng ...</string>
+	<string name="choose_city">Thành phố</string>
+	<string name="choose_district">Quận huyện</string>
+	<string name="please_choose_city">Bạn hãy chọn thành phố trước</string>
+	<!-- Take order activity -->
+	<string name="back">Quay lại</string>
+	<string name="take_picture">Chụp ảnh</string>
+	<string name="toast_error_camera_preview">Can not initialize camera preview.</string>
+	<string name="toast_error_save_picture">Can not save picture on external storage.</string>
+	<string name="please_take_photo_build">Bạn hãy chụp hình trước</string>
+	<!-- Fragment Place detail -->
+	<string name="sale">Giảm</string>
+	<string name="view_entry">Xem bài viết</string>
+	<string name="view_from_wordpromotion">Góc nhìn từ Thế Giới Ưu Đãi</string>
+	<string name="use_condition">Điều kiện sử dụng</string>
+	<string name="do_u_want_call_them">Bạn có muốn gọi không?</string>
+	<string name="promotions_places_nearby_this_place">Các địa điểm ưu đãi gần</string>
+	<string name="find_nearby">Hiển thị thêm khu vực này</string>
+	<!-- Check charge -->
+	<string name="spent_amount">Thanh toán</string>
+	<string name="saved_amount">Tiết kiệm</string>
+	<string name="remaining">Điểm còn lại</string>
+	<string name="redeemed">Điểm đã quy đổi</string>
+</resources>
